@@ -6,6 +6,8 @@ Web Developer and Designer
 
 Hi, I'm Payal , a passionate self-taught web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+<a href="https://app.daily.dev/payalpm"><img src="https://api.daily.dev/devcards/813e2c0d9d5347848b97c000641b1cc1.png?r=a8a" width="400" alt="Payal Manghnani's Dev Card"/></a>
+
 * 🌍  I'm based in Udaipur
 * ✉️  You can contact me at [payalmanghnani11@gmail.com](mailto:payalmanghnani11@gmail.com)
 * 🧠  I'm learning Java & Android Development
