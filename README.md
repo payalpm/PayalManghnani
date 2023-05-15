@@ -64,5 +64,7 @@ src="https://img.shields.io/github/followers/payalpm?logo=github&style=for-the-b
 [![](https://tweeco.pushkaryadav.in/api/handle/manghnani_11)](https://tweeco.pushkaryadav.in)
 
 ### Support Me
-[![payalpm's GitHub | Stats](https://stats.quine.sh/payalpm/github?theme=light)](https://quine.sh)
 <a href="https://www.buymeacoffee.com/payalmanghnani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+###[![payalpm's GitHub | Stats](https://stats.quine.sh/payalpm/github?theme=light)](https://quine.sh)
+
