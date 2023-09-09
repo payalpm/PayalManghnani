@@ -10,7 +10,7 @@ Hi, I'm Payal , a passionate self-taught web developer and a freelance software 
 
 * 🌍  I'm based in Udaipur
 * ✉️  You can contact me at [payalmanghnani11@gmail.com](mailto:payalmanghnani11@gmail.com)
-* 🧠  I'm learning Java & Android Development
+* 🧠  I'm learning Python and data analysis
 * 🤝  I'm open to collaborating on any collobration work,Open-Source Projects
 * ⚡  ask me about anything, i am happy to help;
 
